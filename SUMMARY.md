@@ -50,6 +50,6 @@
 
 * [Page 11](group-1/page-11.md)
 
-## Group 1
+## Resource Management
 * [Page 11](resource-management/page-11.md)
 * [About variables](resource-management/page-12.md)
