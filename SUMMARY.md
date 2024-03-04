@@ -4,6 +4,7 @@
 * [.github](.github/README.md)
   * [PULL\_REQUEST\_TEMPLATE](.github/PULL\_REQUEST\_TEMPLATE/README.md)
     * [Pull Request Template](.github/PULL\_REQUEST\_TEMPLATE/basic.md)
+    * [Copy of Pull Request Template](.github/PULL\_REQUEST\_TEMPLATE/basic-1.md)
 
 ## ❤️ PLAYER HEALTH
 
