@@ -44,3 +44,7 @@
 ## 💭 POSSIBLE CUSTOMIZATIONS
 
 * [Page 10](possible-customizations/page-10.md)
+
+## Group 1
+
+* [Page 11](group-1/page-11.md)
