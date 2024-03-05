@@ -97,3 +97,20 @@ tab 2 text
 expandable text
 
 </details>
+
+
+
+Example using images in a table for parameter listing
+
+|   |   |   |
+| - | - | - |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+Example using images in a card for parameter listing
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>/</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+
+
