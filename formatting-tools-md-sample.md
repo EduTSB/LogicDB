@@ -41,6 +41,7 @@ hint success
 ```
 // Code block
 ```
+![Heart](https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6)
 
 {% file src=".gitbook/assets/image.png" %}
 file caption
