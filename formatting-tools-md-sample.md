@@ -42,6 +42,8 @@ hint success
 // Code block
 ```
 ![Heart](https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6)
+![Paleta Pincel](https://github.com/EduTSB/LogicDB/assets/146975849/addd78f9-dc61-4ed8-b661-128ed8b71c9b)
+
 
 {% file src=".gitbook/assets/image.png" %}
 file caption
