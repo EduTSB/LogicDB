@@ -41,10 +41,16 @@ hint success
 ```
 // Code block
 ```
-![Heart](https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6)
-![Paleta Pincel](https://github.com/EduTSB/LogicDB/assets/146975849/addd78f9-dc61-4ed8-b661-128ed8b71c9b)
-![Rayo](https://github.com/EduTSB/LogicDB/assets/146975849/637f88f3-1657-49cd-83b5-1456bab2dac9)
 
+![Heart caption](https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6) ![Paint palette caption](https://github.com/EduTSB/LogicDB/assets/146975849/addd78f9-dc61-4ed8-b661-128ed8b71c9b) ![Lightning bolt caption](https://github.com/EduTSB/LogicDB/assets/146975849/637f88f3-1657-49cd-83b5-1456bab2dac9)
+
+![Heart small](https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6)
+
+![Heart medium](https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6)
+
+![Heart large](https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6)
+
+![Heart fit](https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6)
 
 {% file src=".gitbook/assets/image.png" %}
 file caption
@@ -87,4 +93,3 @@ tab 2 text
 expandable text
 
 </details>
-
