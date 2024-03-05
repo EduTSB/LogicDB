@@ -56,6 +56,10 @@ hint success
 file caption
 {% endfile %}
 
+{% file src=".gitbook/assets/image.png" %}
+added from folder
+{% endfile %}
+
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>image caption</p></figcaption></figure>
 
 {% embed url="https://docs.sandbox.game/en/" %}
