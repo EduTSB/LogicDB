@@ -51,5 +51,10 @@
 * [Page 11](group-1/page-11.md)
 
 ## Resource Management
+
 * [Updated p11](resource-management/rm-basics.md)
 * [About variables](resource-management/page-12.md)
+
+***
+
+* [Formatting Tools MD Sample](formatting-tools-md-sample.md)
