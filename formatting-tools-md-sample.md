@@ -83,6 +83,10 @@ video caption
 {% tabs %}
 {% tab title="First Tab" %}
 tab 1 text
+
+
+
+![Heart medium](https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6)
 {% endtab %}
 
 {% tab title="Second Tab" %}
@@ -96,21 +100,28 @@ tab 2 text
 
 expandable text
 
+
+
+<img src="https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6" alt="Heart medium" data-size="original">
+
 </details>
 
 
 
 Example using images in a table for parameter listing
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+|                                                                                                                                                           |   |   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | - | - |
+| <p></p><p><img src="https://github.com/EduTSB/LogicDB/assets/146975849/bc72ee0e-adc1-4382-bd3c-0405201c91f6" alt="Heart medium" data-size="original"></p> |   |   |
+|                                                                                                                                                           |   |   |
+|                                                                                                                                                           |   |   |
 
 Example using images in a card for parameter listing
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>/</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src=".gitbook/assets/image.png" alt=""> inline image</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+
+the word annotated is annotated[^1]
 
 
 
+[^1]: this is the annotated text
